@@ -1,5 +1,5 @@
-﻿//using AdventOfCode2019.Day3.Part1;
-using AdventOfCode2019.Day3.Part2;
+﻿//using AdventOfCode2019.Day4.Part1;
+using AdventOfCode2019.Day4.Part2;
 
 namespace AdventOfCode2019
 {
